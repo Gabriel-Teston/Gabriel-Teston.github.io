@@ -1,3 +1,6 @@
 [submodule "Quadtree"]
 	path = Quadtree
 	url = https://github.com/Gabriel-Teston/Quadtree
+[submodule "ParticleSystem"]
+	path = ParticleSystem
+	url = https://github.com/Gabriel-Teston/ParticleSystem.git
