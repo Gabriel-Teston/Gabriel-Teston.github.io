@@ -4,3 +4,6 @@
 [submodule "ParticleSystem"]
 	path = ParticleSystem
 	url = https://github.com/Gabriel-Teston/ParticleSystem.git
+[submodule "DenoisingAutoencoder"]
+	path = DenoisingAutoencoder
+	url = https://github.com/Gabriel-Teston/DenoisingAutoencoder.git
